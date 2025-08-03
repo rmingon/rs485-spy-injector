@@ -2,6 +2,8 @@
 
 ### _Sniff, Inject, and Control RS485 Communication from Your Phone_
 
+![picture](./front_pcb.jpg)
+
 ## Overview
 
 **ESP32 RS485 Hacker Suite** is a mobile-integrated toolkit built around the ESP32 microcontroller, designed to interact with RS485-based communication systems. This system allows for full control, inspection, and injection of RS485 traffic — making it a valuable asset for penetration testers, reverse engineers, and industrial system analysts.
