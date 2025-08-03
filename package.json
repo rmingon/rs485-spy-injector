@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "react-native-bluetooth-serial-next": "^1.2.3"
+  }
+}
